@@ -1,0 +1,15 @@
+E:\DotNet Course\MyCode\Reactivities\Persistence\bin\Debug\net7.0\Persistence.deps.json
+E:\DotNet Course\MyCode\Reactivities\Persistence\bin\Debug\net7.0\Persistence.dll
+E:\DotNet Course\MyCode\Reactivities\Persistence\bin\Debug\net7.0\Persistence.pdb
+E:\DotNet Course\MyCode\Reactivities\Persistence\bin\Debug\net7.0\Domain.dll
+E:\DotNet Course\MyCode\Reactivities\Persistence\bin\Debug\net7.0\Domain.pdb
+E:\DotNet Course\MyCode\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+E:\DotNet Course\MyCode\Reactivities\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet Course\MyCode\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+E:\DotNet Course\MyCode\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+E:\DotNet Course\MyCode\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+E:\DotNet Course\MyCode\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+E:\DotNet Course\MyCode\Reactivities\Persistence\obj\Debug\net7.0\Persistence.dll
+E:\DotNet Course\MyCode\Reactivities\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+E:\DotNet Course\MyCode\Reactivities\Persistence\obj\Debug\net7.0\Persistence.pdb
+E:\DotNet Course\MyCode\Reactivities\Persistence\obj\Debug\net7.0\ref\Persistence.dll

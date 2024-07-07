@@ -1,0 +1,17 @@
+E:\DotNet Course\MyCode\Reactivities\Application\bin\Debug\net7.0\Application.deps.json
+E:\DotNet Course\MyCode\Reactivities\Application\bin\Debug\net7.0\Application.dll
+E:\DotNet Course\MyCode\Reactivities\Application\bin\Debug\net7.0\Application.pdb
+E:\DotNet Course\MyCode\Reactivities\Application\bin\Debug\net7.0\Domain.dll
+E:\DotNet Course\MyCode\Reactivities\Application\bin\Debug\net7.0\Persistence.dll
+E:\DotNet Course\MyCode\Reactivities\Application\bin\Debug\net7.0\Domain.pdb
+E:\DotNet Course\MyCode\Reactivities\Application\bin\Debug\net7.0\Persistence.pdb
+E:\DotNet Course\MyCode\Reactivities\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+E:\DotNet Course\MyCode\Reactivities\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet Course\MyCode\Reactivities\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+E:\DotNet Course\MyCode\Reactivities\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+E:\DotNet Course\MyCode\Reactivities\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+E:\DotNet Course\MyCode\Reactivities\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+E:\DotNet Course\MyCode\Reactivities\Application\obj\Debug\net7.0\Application.dll
+E:\DotNet Course\MyCode\Reactivities\Application\obj\Debug\net7.0\refint\Application.dll
+E:\DotNet Course\MyCode\Reactivities\Application\obj\Debug\net7.0\Application.pdb
+E:\DotNet Course\MyCode\Reactivities\Application\obj\Debug\net7.0\ref\Application.dll
